@@ -1,4 +1,4 @@
-# remote-lab-lib
+# Encode message
 
 Resuelve la codificacion y decodificacion del problema propuesto.
 
